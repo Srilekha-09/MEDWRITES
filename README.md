@@ -16,7 +16,7 @@ There are different operations performed through our application.
 
 4.After that the data in prescription will be verified by the doctor and he will digitally sign on it.
 
-5.Further the mail containing prescription  will be sent to respective patient.
+5.Further the mail containing prescription  will be sent to respective patient. So that the patient can download prescription as pdf.
 
-6.The cost of the medicines can also be estimated by the patient by loging into the application through patient details.
+
 

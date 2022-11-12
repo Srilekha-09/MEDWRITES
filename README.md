@@ -25,6 +25,8 @@ Software Requirements:
 
 2.Ms Word
 
+3.mysql
+
 
 Dependencies:
 
